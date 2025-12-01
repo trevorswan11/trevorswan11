@@ -7,8 +7,7 @@
 * Currently learning: C through the [Conch](https://github.com/trevorswan11/conch) project
 * Fun Fact: I was a Chemical Engineering student for two years and became proficient in Zig and Python during that time!
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trevorswan11&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="Trevor's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevorswan11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=trevorswan11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&hide_border=true)
 
 ## Featured Projects
 * **[Conch](https://github.com/trevorswan11/conch)** - A simple programming language (interpreter/compiler) built from the ground up. **(C)**
