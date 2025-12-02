@@ -14,7 +14,7 @@
 * **[Water](https://github.com/trevorswan11/water)** - A zero-dependency chess library and engine focused on performance. **(Zig)**
 * **[Gerard](https://github.com/trevorswan11/gerard)** - A Discord bot written in Rust, currently maintained on a Raspberry Pi. **(Rust)**
 * **[RootLab-lib](https://github.com/trevorswan11/rootlab-lib)** - A data analysis suite developed with the goal of streamlining and presenting data in the Root Lab at CWRU. **(Python)**
-* **[RemoveTheAnnoying](https://github.com/trevorswan11/removetheannoying)** - A popular Lethal Company mod, accumulating **over 8.7k downloads**, that targets mechanics generally considered unfun to play with. **(C#)**
+* **[RemoveTheAnnoying](https://github.com/trevorswan11/removetheannoying)** - A popular Lethal Company mod, accumulating **over 9k downloads**, that targets mechanics generally considered unfun to play with. **(C#)**
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trevorswan11/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trevor.swan@case.edu)
