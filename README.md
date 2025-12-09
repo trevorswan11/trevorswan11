@@ -7,8 +7,6 @@
 * Currently learning: C through the [Conch](https://github.com/trevorswan11/conch) project
 * Fun Fact: I was a Chemical Engineering student for two years and became proficient in Zig and Python during that time!
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trevorswan11&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&hide_border=true)
-
 ## Featured Projects
 * **[Conch](https://github.com/trevorswan11/conch)** - A simple programming language (interpreter/compiler) built from the ground up. **(C)**
 * **[Water](https://github.com/trevorswan11/water)** - A zero-dependency chess library and engine focused on performance. **(Zig)**
